@@ -1,5 +1,13 @@
-# Sentiment Analysis using NLP
+# 📝 Sentiment Analysis using NLP
 
+> A Machine Learning project that classifies Amazon Fine Food Reviews into **Positive**, **Neutral**, and **Negative** sentiments using **TF-IDF** and **Logistic Regression**.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-green)
+![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-red)
+
+---
 ## 📌 Project Overview
 
 This project uses Natural Language Processing (NLP) and Machine Learning to classify Amazon Fine Food Reviews into **Positive**, **Neutral**, and **Negative** sentiments.
